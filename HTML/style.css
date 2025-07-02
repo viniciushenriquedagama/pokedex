@@ -73,7 +73,8 @@ ol.detalhes {
 
 /*types*/
 
-li.type {
+.type_poison,
+.type_grass {
     margin: 2px;
     font-size: small;
     width: 4.05rem;
@@ -93,4 +94,14 @@ span.numb {
 span.name {
     letter-spacing: 0.05rem;
     font-weight: bolder;
+}
+
+.type_poison {
+    background: #B97FC9;
+}
+
+/*pesquisar sobre child no css */
+
+.type_grass {
+    background: #9BCB50;
 }
