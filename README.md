@@ -1,3 +1,3 @@
 # pokedex
  
-<a href= "HTML/index.html">
+<a href= "HTML/index.html" <style>font-style:bolder</style>Site</a>
